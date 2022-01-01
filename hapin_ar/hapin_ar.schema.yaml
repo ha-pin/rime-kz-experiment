@@ -40,7 +40,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwz # x, y 暂且没有用到
+  alphabet: abcdefghijklmnopqrstuvwz?, # x, y 暂且没有用到
   delimiter: " '"
   algebra:
     - 'abbrev/^([aiuo]e).+$/$1/'
@@ -54,10 +54,7 @@ translator:
 
 # 标点符号映射
 punctuator:
-  half_shape: &symtable
-  ",": "،"
-  "?": "؟"
-  full_shape: *symtable
+  import_preset: default
 
 key_binder:
   import_preset: default
