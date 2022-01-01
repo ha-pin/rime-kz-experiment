@@ -6,6 +6,8 @@ name: hapin_ar
 version: "0.3"
 sort: by_weight
 use_preset_vocabulary: false
+import_tables:
+  - hapin_ar.extend
 ...
 
 ا	a
