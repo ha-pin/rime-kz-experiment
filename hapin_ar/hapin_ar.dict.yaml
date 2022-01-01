@@ -3,7 +3,7 @@
 
 ---
 name: hapin_ar
-version: "1.0.0"
+version: "0.2"
 sort: by_weight
 use_preset_vocabulary: false
 ...

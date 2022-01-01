@@ -4,7 +4,7 @@
 schema:
   schema_id: hapin_ar
   name: 哈拼老文字输入法
-  version: "0.1"
+  version: "0.2"
   author:
     - Herbert He <Herbert.He@gmail.com>
   description: |
