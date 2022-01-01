@@ -47,3 +47,10 @@ PC 端的哈萨克语老文字键入还是挺麻烦的, 哈萨克语文字存在
 | z        | ز      |            |            |
 | sh       | ش      |            |            |
 | ch       | چ      |            |            |
+
+## References
+
+- [Unicode 码表](https://blog.csdn.net/hherima/article/details/9045765)
+- [哈萨克语 Wikipedia](https://zh.wikipedia.org/wiki/%E5%93%88%E8%96%A9%E5%85%8B%E8%AA%9E)
+- [漫谈：哈萨克文字母、字体、输入法及其他](https://zhuanlan.zhihu.com/p/98359081)
+- [Rime 輸入方案設計書](https://github.com/rime/home/wiki/RimeWithSchemata)
