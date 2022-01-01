@@ -4,7 +4,7 @@
 schema:
   schema_id: hapin_ar
   name: 哈拼老文字输入法
-  version: "0.2"
+  version: "0.3"
   author:
     - Herbert He <Herbert.He@gmail.com>
   description: |
@@ -40,7 +40,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwz?, # x, y 暂且没有用到
+  alphabet: abcdefghijklmnopqrstuvwz?,; # x, y 暂且没有用到
   delimiter: " '"
   algebra:
     - 'abbrev/^([aiuo]e).+$/$1/'

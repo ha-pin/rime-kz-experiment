@@ -3,7 +3,7 @@
 
 ---
 name: hapin_ar
-version: "0.2"
+version: "0.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -43,3 +43,5 @@ use_preset_vocabulary: false
 چ	ch
 ،	,
 ؟	?
+؛ ;
+ٴ	x
