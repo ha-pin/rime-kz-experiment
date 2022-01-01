@@ -54,3 +54,4 @@ PC 端的哈萨克语老文字键入还是挺麻烦的, 哈萨克语文字存在
 - [哈萨克语 Wikipedia](https://zh.wikipedia.org/wiki/%E5%93%88%E8%96%A9%E5%85%8B%E8%AA%9E)
 - [漫谈：哈萨克文字母、字体、输入法及其他](https://zhuanlan.zhihu.com/p/98359081)
 - [Rime 輸入方案設計書](https://github.com/rime/home/wiki/RimeWithSchemata)
+- [如何评价哈萨克斯坦拉丁化哈萨克文字母表？](https://www.zhihu.com/question/65270788)
