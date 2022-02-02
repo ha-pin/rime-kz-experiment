@@ -16,7 +16,7 @@
 ## 目录
 
 - [研究背景](https://github.com/HerbertHe/rime-kz-experiment/blob/main/docs/background.md)
-- [研究方案](https://github.com/HerbertHe/rime-kz-experiment/blob/main/docs/achema.md)
+- [研究方案](https://github.com/HerbertHe/rime-kz-experiment/blob/main/docs/schema.md)
 - [输入法支持](https://github.com/HerbertHe/rime-kz-experiment/blob/main/docs/ime.md)
 - [里程碑](https://github.com/HerbertHe/rime-kz-experiment/blob/main/milestone.md)
 
