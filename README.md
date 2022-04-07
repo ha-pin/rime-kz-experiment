@@ -1,8 +1,10 @@
 # rime-kz-experiment
 
-哈萨克语拼音化简化实验性方案
+哈萨克语拼音化方案
 
-你也可以通过 [Open Kazakh](https://github.com/HerbertHe/open-kazakh) 阅读本仓库内容!
+[简体中文](https://github.com/HerbertHe/rime-kz-experiment/blob/main/README.md) | [English](https://github.com/HerbertHe/rime-kz-experiment/blob/main/README.en_US.md)
+
+你也可以通过 [Open Kazakh](https://open-kazakh.vercel.app) 阅读本仓库内容!
 
 ## 开源声明
 
